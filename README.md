@@ -1,4 +1,4 @@
-# malekzitouni--ObjectiX-Intelligent-Object-Detection-ROI-Classification-
+--ObjectiX-Intelligent-Object-Detection-ROI-Classification-
 
 Here's a summary of the tasks you've completed during your project:
 
@@ -62,4 +62,3 @@ Here's a summary of the tasks you've completed during your project:
    - Plan to fine-tune the pre-trained model while avoiding overfitting by adjusting the learning rate, epochs, and potentially applying **early stopping**.
    - Exploring data augmentation strategies for improving generalization and model performance.
 
-Let me know if you'd like any additional details or modifications to this summary!
