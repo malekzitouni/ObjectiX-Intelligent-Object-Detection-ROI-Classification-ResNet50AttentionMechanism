@@ -61,4 +61,8 @@ Here's a summary of the tasks you've completed during your project:
 8. **Next Steps**:
    - Plan to fine-tune the pre-trained model while avoiding overfitting by adjusting the learning rate, epochs, and potentially applying **early stopping**.
    - Exploring data augmentation strategies for improving generalization and model performance.
+  
+   ### Conclusion
+ The model was trained for only 1 epoch, resulting in suboptimal performance across various metrics, such as accuracy, precision, recall, and F1 score. To improve these metrics and allow the model to learn more effectively, it is essential to increase the number of epochs. Training for a greater number of epochs will allow the model to better learn the features and patterns in the data, which should result in higher accuracy and improved precision, recall, and F1 scores.
+ 
 
