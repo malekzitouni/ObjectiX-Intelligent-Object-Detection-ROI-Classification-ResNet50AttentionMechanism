@@ -11,6 +11,9 @@ Here's a summary of the tasks you've completed during your project:
 - **Hardware**: NVIDIA GeForce RTX 3050 6GB Laptop GPU, CUDA version 12.4.
 - **Custom Loss Function**: Cross-entropy loss for object classification and ROI detection.
 
+  
+![network](https://github.com/user-attachments/assets/68a6cac4-246c-4ac4-9b88-5d151c9b1e2b)
+
 #### **Tasks Completed**:
 
 1. **Setting up the Environment**:
